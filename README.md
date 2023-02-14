@@ -26,5 +26,5 @@
 
 #### Pull Request
 
-- PR 제목 : 이름 / 주차 / 문제이름 및 번호
-- ex) kitae / 1_week / 스티커 (9456)
+- PR 제목 : 이름 / 주차
+- ex) kitae / 1_week
