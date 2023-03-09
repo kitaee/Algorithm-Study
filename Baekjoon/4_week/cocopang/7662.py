@@ -13,7 +13,6 @@ for _ in range(t):
     k = int(sys_input().rstrip())
     max_heap = []
     min_heap = []
-    sync = []
     is_delete = []
     check = 0
     for _ in range(k):
