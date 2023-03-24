@@ -50,7 +50,6 @@ for _ in range(t):
     visited = []
     index = 0
     for _ in range(n):
-        check = 0
         a, b = sys_input().rstrip().split()
         node_check(a)
         node_check(b)
